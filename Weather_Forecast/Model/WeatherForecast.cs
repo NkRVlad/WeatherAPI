@@ -16,12 +16,6 @@ namespace Weather_Forecast
         public Wind Wind { get; set; }
         public Clouds Clouds { get; set; }
     }
-
-    public class Root
-    {
-        public int code { get; set; }
-        public List<List> list { get; set; }
-    }
   
     public class Main
     {
