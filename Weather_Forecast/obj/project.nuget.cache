@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/7cfRsajHylg0rzWC1HeyEeJr0/Hc3z/Kd15SvR9TvdNpXtIw8QzwOnrxjfNwM8lytEyw1b2hAI51i1AkBpjRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vladz\\source\\repos\\ТЗ_Cleveroad\\Weather_Forecast\\Weather_Forecast\\Weather_Forecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\vladz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
