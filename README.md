@@ -9,21 +9,21 @@ To install the application, you need to download the archive from the link https
 # Instructions
 
 Swagger display
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Swagger.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Swagger.png?)
 
 Weather displays in Dnipro in one day
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Dnipro_one.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Dnipro_one.png?)
 
 Error processing
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Error_one.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Error_one.png?)
 
 Weather display in Dnipro for 5 days
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Dnipro_five.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Dnipro_five.png?)
 
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Dnipro_five_2.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Dnipro_five_2.png?)
 
 Error processing
-![alt text](https://github.com/NkRVlad/WeatherAPI/raw/main/image/Error_five.png?)
+![alt text](https://github.com/NkRVlad/WeatherAPI/raw/master/image/Error_five.png?)
 
 # Developer
 Zalepa Vladislav
