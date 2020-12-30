@@ -42,17 +42,17 @@ namespace Weather_Forecast.Controllers
 
                     var stringResult = await response.Content.ReadAsStringAsync();
 
-                    var rawWeather = JsonConvert.DeserializeObject<List>(stringResult);
+                    var result = JsonConvert.DeserializeObject<List>(stringResult);
 
                     return Ok(new
                     {
-                        name = rawWeather.Name,
-                        Date = Convert.ToDateTime(new DateTime(1970, 1, 1).AddSeconds(rawWeather.dt)).ToShortDateString(),
-                        temp = rawWeather.Main.temp,
-                        temp_max = rawWeather.Main.temp_max,
-                        temo_min = rawWeather.Main.temp_min,
-                        speed_wind = rawWeather.Wind.speed,
-                        clouds = rawWeather.Clouds.all
+                        name = result.Name,
+                        Date = Convert.ToDateTime(new DateTime(1970, 1, 1).AddSeconds(result.dt)).ToShortDateString(),
+                        temp = result.Main.temp,
+                        temp_max = result.Main.temp_max,
+                        temo_min = result.Main.temp_min,
+                        speed_wind = result.Wind.speed,
+                        clouds = result.Clouds.all
                     });
                 }catch(HttpRequestException httpRequestException)
                 {
